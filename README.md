@@ -20,9 +20,11 @@
 
 <div>
 <a href="https://github.com/dvctrl">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dvctrl&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvctrl&layout=compact&langs_count=7&theme=gotham"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dvctrl&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvctrl&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
+<div>
+![Snake animation](https://github.com/dvctrl/dvctrl/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
