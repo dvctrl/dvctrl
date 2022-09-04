@@ -1,6 +1,6 @@
 ## Hello world 👋🤓
-##### This year I begin my journey into development systems. Here is a place where I record my knowledge and learning! I'll try to share many things here in the week :)
-##### Would you like to find me?
+#### This year I begin my journey into development systems. Here is a place where I record my knowledge and learning! I'll try to share many things here in the week :)
+### Would you like to find me?
 <a href="https://www.instagram.com/codedvd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/david-s-123286118/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:davidmouzinho.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://codepen.io/dvctrl" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/oneds_23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
