@@ -1,4 +1,4 @@
-## Hello world 👋🤓
+## <b>Hello world<b> 👋🤓
 #### This year I begin my journey into development systems. Here is a place where I record my knowledge and learning! I'll try to share many things here in the week :)
 ### Would you like to find me?
 <a href="https://www.instagram.com/codedvd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/david-s-123286118" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:davidmouzinho.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -16,6 +16,13 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50"/> 
 </div>
+<br>
+<div>
+<a href="https://github.com/dvctrl">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvctrl&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=dvctrl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 <hr></hr>
 
