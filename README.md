@@ -16,9 +16,9 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50"/> 
 </div>
-<hr></hr>
 
 <hr></hr>
+
 
 ![Snake animation](https://github.com/dvctrl/dvctrl/blob/output/github-contribution-grid-snake.svg)
 
