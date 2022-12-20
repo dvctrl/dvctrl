@@ -1,7 +1,7 @@
 # Hello World! 🤓🖖
 Sou estudante de Desenvolvimento de Sistemas.
 <br>⚛️Focado em soluções Front-end.
-<br>🪴 Atualmente com foco em JavaScript, e demais conceitos avançados. 
+<br>🪴 Atualmente com foco em JavaScript e suas técnologias
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codedvd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-mouzinho) 
