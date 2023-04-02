@@ -7,6 +7,7 @@ Atualmente também estou com um projeto de [blog](https://medium.com/@dvctrl) af
 
 [![Linkedin: David](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/david-mouzinho/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dvctrl) 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109846662345084283?domain=https%3A%2F%2Fmastodon.social)
 
 ## Tecnologias
 **`HTML/CSS`** **`JavaScript`** **`BootStrap`** **`PHP`** **`MySQL`** **`Java`** **`Python`** **`NPM`** **`AndroidStudio`** **`Xampp`** **`Git`** **`GitHub`** **`Eclipse IDE`** **`Visual Studio Code`** **`Intellij IDEA`**
