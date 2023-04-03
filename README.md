@@ -1,7 +1,7 @@
 <img src="./banner.png" alt="banner"/>
 
 ## Olá mundo! 👋🏻
-Me chamo David Santos, sou estudante de Desenvolvimento de Sistemas. Sou apaixonado por programação, programar para mim, é uma arte: onde havia um espaço em branco, com algumas linhas de código, consigo recriar o mundo e seus objetos ao meu redor. Busco sempre estudar e aprimorar minhas habilidades para me manter atualizado e oferecer as melhores soluções possíveis. Atualmente estou focado na Linguagem Java e conceitos de POO(Programação orientada a objetos).
+Me chamo David Santos, sou estudante de Desenvolvimento de Sistemas. Sou apaixonado por programação, programar para mim é uma arte: onde há um espaço em branco, com algumas linhas de código, consigo recriar o mundo e seus objetos ao meu redor. Busco sempre estudar e aprimorar minhas habilidades para me manter atualizado e oferecer as melhores soluções possíveis. Atualmente estou focado na Linguagem Java e conceitos de POO(Programação orientada a objetos).
 
 Atualmente também estou com um projeto de [blog](https://medium.com/@dvctrl) afim de contribuir para a comunidade de desenvolvedores!
 
