@@ -19,3 +19,4 @@ Atualmente também estou com um projeto de [blog](https://medium.com/@dvctrl) af
 
 
 
+
